@@ -38,5 +38,3 @@ API resources that can be updated are detailed in the following table\.
 | [Stage](https://docs.aws.amazon.com/apigateway/api-reference/resource/stage/) |  For applicable properties and supported operations, see [stage:update](https://docs.aws.amazon.com/apigateway/api-reference/link-relation/stage-update/#remarks)\. The update does not require redeploying the API\.  | 
 | [Usage](https://docs.aws.amazon.com/apigateway/api-reference/resource/usage/) |  For applicable properties and supported operations, see [usage:update](https://docs.aws.amazon.com/apigateway/api-reference/link-relation/usage-update/#remarks)\. The update does not require redeploying the API\.  | 
 | [UsagePlan](https://docs.aws.amazon.com/apigateway/api-reference/resource/usage-plan/) | For applicable properties and supported operations, see [usageplan:update](https://docs.aws.amazon.com/apigateway/api-reference/link-relation/usageplan-update/#remarks)\. The update does not require redeploying the API\. | 
-
-**Topics**
